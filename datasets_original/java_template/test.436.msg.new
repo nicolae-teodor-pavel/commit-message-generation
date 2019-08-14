@@ -1,0 +1,436 @@
+Call fnc_0 ( ) instead of fnc_1 ( ) in cls_3 . fnc_0 ( ) 
+Removed non - needed imports 
+Put that coffee down . 
+fix error in docking station on chunk unload , fixes # 2898 
+Fix bug 558 , cls_1 . save ( ) method not working with get ( ) 
+Changed the behaviour of sendKey so that any var_1 event kan be sent 
+Ninja - add fnc_0 log statement to mv builder scheduled at startup 
+Cancel all pending root scan requests on fnc_0 . 
+LPS - 48807 Remove EOL 
+remove fnc_0 since it doesn ' t trigger anymore 
+adds TODO for instantiateCroutonView 
+annotate stacktrace only in " analyze stacktrace " and thread dump console . 
+Fixed problem with getHighestFnScope method 
+set component configurations correctly for trident spouts 
+LPS - 50604 add @ Override 
+Fixed bug in fnc_2 
+add " \ n " to processed response 
+Add missing cls_3 in cls_4 
+add missing test data 
+fixed data info merge issue . 
+Remove stray import of java . util . cls_0 
+Fix ringback return value . 
+Suppress another flaky test . 
+allow panes to raise themselves again 
+Added missing method to check if a cls_3 . java is visible . 
+set origin var_1 with normal var_1 
+Don ' t draw the current state if we are forcing another invalidation . 
+Add @ Override to overriden method . 
+Fix typo which cause stack overflow if fnc_0 ( ) was called 
+Fixes 
+destroy folding model in three - side viewer 
+IDEA - 103375 Fix understanding Git submodule roots 
+Commit actually correct cls_0 fix . 
+Temporarily disable cls_4 not to break tests 
+convert GitVersionTest to junit 
+Add cts_0 . 
+Tweak class loader 
+Put back abstract version number 
+Fix test failure on some platforms 
+remove unused import 
+Add field for java pc rendering 
+Add fnc_1 ( ) to cls_0 interface so we can call it from PhoneWindowManager 
+Add warning when fnc_1 is null . 
+Fix fnc_1 ( ) . 
+canvas . fnc_0 ( ) expects degrees 
+Deprecate cls_0 . POSTGRESPLUS 
+Fix NPE in fnc_0 
+Close the HTTP var_1 in the callable 
+inadvertently removed method 
+Remove extra spacing 
+CLJ - 1854 make var_7 number available on synthetic method 
+Added parsing of Cython enums 
+Changing default value for var_0 . 
+Fixed problem with fnc_1 method 
+don ' t need null check 
+Remove accidental import 
+Ignore WriteTimoutTestCase 
+enable cts_3 capability for system server 
+Fix flag value collision 
+remove " final " modifier for cls_0 
+Add cts_4 to the cls_2 list . 
+close the cls_1 when audit has finished 
+Added one line of space before main screen footer . 
+Initial support for I18n ruby find usages support + fixed tests on yaml backend 
+Allow external file picker 
+NumberPicker truncates the edited value . 
+Make gestures visible again . 
+create var_0 , since it is no longer created elsewhere . 
+SONAR - 5329 - Added activity table to cls_1 for cleaning . 
+Remove dead variable var_2 . 
+Fix indent 
+Set cls_2 to have vertical orientation by default 
+DO NOT MERGE Fix finalization 
+Fix NPE in volley stream fetcher 
+default native proto to correct port in cls_0 
+hide cls_0 . fnc_0 ( ) method 
+fix bug in non - choreographer looper 
+IDEA - 95867 please map an " XML Catalog " topic 
+Remove unnecessary getter 
+Covariant Equals Check compilable UT inputs 
+woops java type checks ! 
+Make app module field private . 
+Disable other test . 
+Shutdown the actor system after we are done with it . 
+Fixed bug in new entity sound hook . 
+HHH - 9201 - Evict cache instead of fnc_1 after transaction completion 
+Disable watch service based file watching for now 
+Fix fnc_0 
+include separator below title 
+Don ' t run dSYM on bundles 
+Remove fnc_1 of cls_1 when used for URI conversion . 
+Added fnc_0 ( ) method in cls_1 . NeoAppRelationshipType . . . otherwise 
+Fix test 
+Don ' t return an unmod collection . 
+Fix cls_0 
+Add temporary class object var_0 for structure and project views 
+Actually set the autobind flag with the specified value ( # 1038 ) . 
+removed normalize from lfw 
+Make the remote control desktop sharing check box non - opaque on Windows and Linux . 
+Remove invalid generics from warningsOverload group . 
+Replace hardcoded cts_0 with cls_0 . cts_0 
+fixed multiple db calls 
+LPS - 67643 reactivate test 
+Add var_3 . fnc_2 ( true ) to ant jscomp 
+ @ Deprecated does not have effect in Groovy 
+delete obsolete TODO 
+Remove unused field from cls_0 . 
+Removed unnecessary tag 
+Fix a broken test utility causing many Apple tests to be skipped 
+Fix build break 
+Consider default zoom scale for mobile viewport . 
+Fixes java 1 . 5 compatibility . 
+Remove unnecessary method 
+LPS - 57379 Fix potential future bug 
+add module settings action to dependencies trees 
+Make cls_0 . cts_0 public 
+move test var_0 into temp folder 
+Fix missing cls_2 import in Restore . java 
+Use this ( ) in constructor 
+add Gpu - Image library 
+Fixing a failing unit test . 
+Removing unused override . 
+Fix an infinite exception storm triggered by cls_0 . invokeInboundBufferUpdated ( ) 
+Javac ( at least for 1 . 7 . 0_51 on Mac ) wants fully qualified class name 
+Removed a TODO mark which is not going to be fixed ( it just works and is not reusable at this moment . ) 
+added missing cls_4 config for JSON - lib JSON databind 
+Catch badly formed URLs in WebView accessibility injector . 
+Add GC thread to RSGL . 
+Replacing correct XML var_0 on editing external annotations . 
+Fix naming issue in comment 
+Fix indentation 
+Make final 
+Make PyUnbound Local Variable inspection enabled by default 
+Fix bug 5248444 - cls_1 reported scroll state out of sync for some 
+reset when fnc_0 
+rewrite readonly status dialog ( IDEADEV - 2453 , IDEADEV - 8703 , IDEADEV - 12772 ) 
+Correct compile error . 
+Do not show article tab for non - articles 
+update the conversations view ( and the lock icon ) after receiving device list 
+fixed compilation error 
+Fix leaked broadcast receiver 
+Fixed action var_1 bug with select show on map in my tracks 
+PY - 1065 Reformat and auto - import do not respect space - after - comma preference in multiline imports 
+help ID ( IDEA - 57112 ) 
+changed return type to be more generic 
+Fixed the animation end event . 
+Fixed checkstyle error 
+Fix indent 
+LPS - 48154 Expose it or else Eclipse complains 
+Switch var_0 to fixed - rate scheduling 
+Fix NPE in BrowseFragment header transition before API 19 
+DomModelTreeView disposing fixed 
+add method cls_0 . fnc_1 ( ) 
+fixed javadoc 
+Shutdown of cls_1 now also interrupts the associated thread 
+LPS - 53947 add @ Override 
+Added comment to eagerly initialized singleton implementation . 
+Allow categorical encoding . 
+Add an fnc_1 check to cls_0 . fnc_2 ( ) . 
+Missing first line of var_10 in header . 
+Fix warnings 
+Remove redundant test 
+Should not be closing system dialogs when Recents is hidden . 
+Fix missing imports . 
+hide structure by default 
+shutting off external fnc_1 messages once again 
+invalidate cls_1 after Title change 
+cherry pick " Fix build " a227db53f0cd30214c393b400436d1e0863396ef into master 
+Add Javadoc 
+remove me note 
+added cls_0 interface 
+hide secondary toolbar on startup 
+Added getter to the user object associated with a base adapter helper 
+VolumePreference . fnc_0 only stops playback 
+Initialize audio quality with NONE instead of AMR_WB . 
+LPS - 33429 missing transactional annotation 
+Rogue line number for try / catch var_2 confuses IDE debuggers 
+Fix conditional . 
+Exploding Engines should kill themselves 
+Fix cls_1 copy ctor 
+Replaced calls to HttpServletRequest . getScheme ( ) , HttpServletRequest . fnc_4 ( ) and HttpServletRequest . getPathInfo ( ) with a call to HttpServletRequest . getServletURL ( ) 
+LPS - 38606 Remove unthrown exception 
+add todo 
+remove unused import 
+Add access to cls_0 for SyncState . 
+Set var_0 to true when presenting the image settings dialog . 
+help topic ( PY - 348 ) 
+Fix NullPointerException 
+fixed fragements back stack problem 
+Identity . combine ( var_0 ) should just return var_0 . 
+IDEA - 55132 Provide ability to setup formatter to use indents relative to expression start 
+added type name . 
+build # 3 
+FastArray doesn ' t overwrite fnc_0 ( ) method 
+Added type for fnc_2 
+Suppress exception log 
+Allow subclasses to fiddle with var_1 
+Fix NPE in the test code 
+Removes unused SuppressWarnings 
+Make cls_0 . fnc_0 ( ) public . 
+fixed previous check - in 
+Send ACTION_DEVICE_POLICY_MANAGER_STATE_CHANGED Broadcast when a user restriction has been changed . 
+Fix gzip streams buffering data for low volume streams 
+Invalidate cached data for new name when renaming a var_1 
+LPS - 39137 Fix bad SF compile error 
+Add shadow for View . MeasureSpec class 
+Fix default cls_4 gravity 
+XML object now cross references loadXML ref docs 
+Fix bug # 5544127 cls_3 regression in ICS when setting TextSize dynamically 
+hide no - tabs toolwindow on middle - click on base label 
+Revert " Decreasing default max connections per node to 10 " 
+LPS - 55112 It ' s already static 
+Remove empty fnc_0 ( ) method from cls_0 
+Fix typo 
+Fix docs typo in YUV code 
+Fix bug with bad state in animators 
+Fix random text insertion 
+GRAILS - 6047 - this change may resolve GRAILS - 6047 , pending further investigation 
+Added fnc_1 method to control that behaviour from outside 
+refresh settingsModified flag on fnc_0 ( ) 
+Upped initial buffer size to 1K to be consistent with the pooled version 
+add missing branch 
+removed two extra lines from the merge in r2055 
+FredrichO / JonathanL - fixed issue with views not recycling on media grid 
+Fix broken build . 
+Removed unnecessary annotation 
+Remove stray fnc_1 Fixes # 3446 
+made cls_0 public 
+Fix cls_1 compilation with hdfs1 
+Invalidate cls_0 during setText ( ) 
+Added redundant abstract method declarations to maybe work around problems on Nokias 
+reset last rendered var_1 on fnc_1 end 
+Fix sysout with trailing messages after a newline 
+add @ cls_0 to cls_4 # fnc_0 
+Removed unused import 
+LPS - 53563 Plugin visibility in personal sites is impacted by the user not being in the Power User role 
+Add missing access check . 
+Adding print to var_1 stream when there ' s an HTTP call made that doesn ' t match any response rules . 
+Renamed an incorrectly named test . 
+Fix typo 
+Suppress cls_2 ( support info ) 
+Prevent new ripples when max reached 
+Fix a problem with some hardware devices . 
+reset CodeInsightTestFixture in fnc_0 
+Remove unneeded commented - out SuppressWarnings . 
+don ' t sanitize pipeline var_1 name in fnc_0 
+Removed system var_2 . 
+shutting down the listener thread properly { SMACK - 120 } 
+Enable strict mode assumption for those using ecmascript 5 . 
+Throw cls_2 in not implemented method 
+Check for correct capability for showing desktop sharing 
+Fix a test failure after the timeout refactoring 
+Avoid NPE on var_0 if application doesn ' t use WebSocket 
+Reinstantiated ignored test . 
+Add synchronization to fnc_1 ( ) 
+Fix bug 3497341 - take list padding into account when drawing 
+Fix NPE when branding isn ' t present 
+fixed # 1156 
+Fixed small comments 
+focus editor on Cmd + E find next 
+Fix bug in cls_0 . fnc_0 if the list is empty 
+Fixed a bug where the margins where not updated correctly 
+Accessibility focus should not affect the currently active window . 
+Stop any running DHCP client before bringup up an Ethernet interface 
+fixed compilation error for ' cls_1 ' class usage . 
+IDEA - 146663 Typing on the replace field causes search preview to refresh 
+Add support for the Firebird database - Fixed CURRENT_USER ( ) 
+Fix test ' s name 
+Migrate UI to fnc_0 ( ) . 
+give access to the defining classloader 
+Revert " Fix Forge ore dictionary support for the Assembly Table " 
+Add private constructor to tachyon . cls_0 
+Properly fnc_4 references to the original CompilerInput after the hot - swap is done . 
+Fix build 
+Fix return node after addding var_1 node . 
+set origin var_1 with normal var_1 
+Hopefully fix # 48 
+Remove an unneeded assignment 
+Add indices . requests . cache . clean_interval as a known settings 
+add correct exception throw declaration to fnc_0 . 
+FileSystemCompiler # generateFileNamesFromOptions is adding var_0 multiple times 
+remove javadoc warning 
+Fixed soft - dependencies broken by previous commit . 
+Fix Yahoo MUC . 
+remove redundant code from # 2051 
+Reduced visibility of cls_2 . cls_0 constructor to private 
+don ' t update var_1 status if project is already disposed ( IDEADEV - 25430 ) 
+removed unused method 
+Remove stray semi - colon . 
+Build layer immediately when setting it in cls_0 
+specify default service name for coordinator 
+Fix build . 
+Initialize fnc_0 again 
+Fix off - by - one issue when removing from Iterator 
+LPS - 50974 Fix compile error 
+Add a blank line to MockRilTest . java 
+DO NOT MERGE Use correct param for var_2 in cls_0 horizontal measure 
+disable reloading for scripts with dates in the future 
+Don ' t draw the selection pointer on long press . 
+Fixed the check used to decide if it the given view id is from an action item or a simple view . 
+typo cont ' d ( remove deprecated method in trunk ) 
+LPS - 56976 cls_3 does not need the cls_1 , just directly implements cls_4 
+removed assignment in cls_0 
+update FileRequest 
+Shorten the interval to reconnect the disconnected IME 
+Kill a once - used temporary variable 
+add @ Deprecated to make sure it is not part of 1 . 0 . 0 API 
+Fix noisy exception logging 
+Add break statement on load extractor from var_0 
+LRQA - 29060 Never set var_0 to NULL 
+extracted InvocationOnMock interface 
+Fix small rendering bug when item is hovering over AdvancedSlot . 
+Schedule traversal instead performing it directly . 
+Fix problem in var_0 
+Added cts_3 as new constant 
+LPS - 48078 Add unit tests 
+Fix cls_0 implementation for UnionNode 
+Changed min_adapter_stack to < = 
+Fix FindBugs warning 
+Fix NPE in style fragment parse 
+Preserve explicit consumed state in replaceSystemWindowInsets DO NOT MERGE 
+Make isms optional ( support info ) 
+Remove focus from focused control when dialog is loaded 
+Set default icon size to 24dp 
+Missing tld . 
+LPS - 18821 Add it to the interface so it can be called ( in case it ' s needed in the future ) 
+Fix javadoc of cls_2 # fnc_0 ( ) 
+Updated the package description 
+IDEA - 73567 SVN repository browser doesn ' t work for default project any more 
+Add missing commit 
+Missed import 
+Fix deadlock in cls_0 while login and parsing stream features ( for Tigase servers ) 
+Remove code highlighted as unused by UCDetector 
+remove debug message 
+Remove useless code . 
+reverted SafeVarargs because of Oracle license restrictions 
+add filter and scope parameters when creating terms stats facet 
+Fix build break 
+Added cls_0 interface . 
+Print " Success " on success 
+Add missing @ Override annotation . 
+Invalidate progress bar every time the holding cell is requested for uploads in progress 
+fixed issue # 199 
+removed override . 
+Added support for tracking self hosted uniques . 
+Restore default favicon when page loads so as to prevent a favicon from the last webpage being used 
+disable optimizations for interfaces 
+Fix a bug disappearing var_3 info of packages after reboot . 
+Removed useless variables . 
+Fix build due to merge of 7595842 and renaming due to 8eb87f0 
+Fixed setter in cls_0 ( lucene locking ) 
+trim user defined string 
+removed extraneous import 
+add missing call to superclass method 
+Resolve potential deadlock state during cls_0 fnc_0 
+Fixed added whitespace in cls_4 . 
+initialize var_0 list before MediaCodec . getCodecInfo ( ) 
+Remove sysout 
+Add @ cls_0 annotation for outerjoin test 
+Added ( back ) counter increment when sending packets . 
+Added missing @ Override annotation in cls_1 . 
+Adding pan behavior on preference var_1 . 
+Stack overflow fix 
+added missing header 
+Fix checkstyle 
+Fix JDBC DatabaseMetaData . fnc_0 
+remove an unused import 
+Initialize country and dialect specific engines . 
+Haptics for PIN enter key 
+Improved error handling when font loading fails . 
+Fix InputType determination of WebTextView 
+Fixed wrong class filter condition 
+Make an internal class package private " 
+Fix type in cls_0 . 
+Fix comment 
+Fixed cloning problem 
+Fixed formatting / printing bug in cls_0 . 
+added finally block that sets the system property back to null after use so as not to break other tests 
+Remove redundant ` private ` modifier from enum ctor 
+remove cts_1 from cls_2 ( not used ) . 
+Remove unneeded break statement . 
+Revert " LPS - 37902 Deleting file entry types too " 
+add a * 
+Testing svn version info 
+removed unnecessary import 
+Delete unused method 
+Disabling all version removal for test 
+Add missing @ Override annotation . 
+LPS - 37741 Removed unused annotation 
+removed unnecessary import 
+DO NOT MERGE 2928156 Accessibility event ' s parcelableData property not nullified during recycling ( GINGERBREAD ) 
+fixed bug in path builder , close # 1490 
+Make fnc_1 ( ) public and hidden , as it is needed for WifiSettings . 
+Remove duplicate code 
+Remove unused imports in cls_0 
+Removed @ Override annotation in cls_5 . fnc_2 ( ) to avoid broken compilation . 
+Changed power request to activation energy . 
+LPS - 58126 Revert " LPS - 56015 We only want the regular parameters , see getParameterValues and other methods in the class . " 
+remove forgoten repeat from test 
+Fix null check for cls_0 . equals . 
+Fixed inverse of listener assignment . 
+Disable RenderThread 
+Removed cls_2 constructor with just a class 
+added call to var_1 . fnc_0 ( ) in initSurface ( ) to 
+Fix start delay jank in cls_0 
+Fix crash when converting empty string to IOB datums 
+Add cls_1 . fnc_0 ( ) . 
+fix missing fnc_1 
+Fix condition to check whether or not the database needs upgrading 
+fixed # 425 
+Remove unnecessary code . 
+Improve street name display 
+Removed the testing code 
+Align ssl test in parseHost in BIO and NIO & APR 
+Fix bug 43236 . 
+Now closes ReadableByteChannel after it has been read . 
+Remove misplaced @ return in JavaDoc 
+UNDERTOW - 904 Fix fnc_1 issue with HTTP / 2 
+add not null 
+Fix cls_0 transitions canceling when nothing has changed . 
+Remove unused boolean parameter 
+remove unused constant 
+ ( If there is no error , do change the target 
+Resolved conflict 
+Re - add the proper accessor 
+handle execptions while writting to the debug stream . 
+Changed delay of the runnable in startSyncFolderOperation of cls_0 , adding 350ms 
+make changelogParamters publicly accessable 
+add var_6 
+add stop var_0 to json serialization ( reported by Colin ) 
+setting backround color if image comes directly from cache 
+make package protected , so other apps do not link it 
+do not stop editing on fnc_0 invokation 
+PagedFileStorage $ StorageLock $ BuffersCache . createValue 
+update shelf on project open ( IDEADEV - 12518 ) 
+Fix memory leak 
